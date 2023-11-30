@@ -2,6 +2,7 @@
 *(Last week of November)*
 
 ## Schedule Meetings
+
 1. DGS Meeting
   a. __Semester Progress__
     i. Teaching:
