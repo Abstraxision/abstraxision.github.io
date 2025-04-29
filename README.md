@@ -11,3 +11,5 @@ __Current topics I've been interested in and some random facts are below:__
 > ||* If you ever want to compare notes or study together, I'd love to since most of my *coding* knowledge is from consuming open-source material while aimlessly pressing render/compile. ||
 
 > ||* Recently, I've been interested in integrative programming related to statistics, exploring more accessible sources and spending inordinate amounts of time on formatting trivialities. I torturously switched from `RStudio` to `VScode` with `Quarto` and have been fervently reading random things related to inclusive environments and how people utilize `GitHub`. ||
+
+![image](https://github.com/user-attachments/assets/d53a3f8c-ca81-42b0-b656-866166fc0c9d)
