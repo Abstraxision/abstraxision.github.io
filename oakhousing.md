@@ -34,5 +34,9 @@
     - > Sign up through Amazon Prime and One Medical
 
 ## Pet Health
-  1. **Modern Animal:** [Berkeley Location](https://www.modernanimal.com/clinics/berkeley)
+1. **Modern Animal:** [Berkeley Location](https://www.modernanimal.com/clinics/berkeley)
 2. [**East Bay Veterinrary Clinic**](https://www.eastbayvetclinic.com/site/book-online?gad_source=1&gad_campaignid=23068386189&gbraid=0AAAAAoiq5Ks8hLdO5zdz65QETEm4mjf3z&gclid=Cj0KCQjw4a3OBhCHARIsAChaqJNfPhteKdnZQQIbphTuHUZjCKVY8o87BRmDhIKgyBVs6B1na6DfdegaAi3YEALw_wcB#vs-xc-appointment-type)
+
+*  __**Pet Health Insurance**__
+1. [CareCredit](https://go.carecredit.com/consumer/home?sitecode=CCCALDS2X)
+2. [Scratch](https://scratchpay.com/)
