@@ -13,6 +13,7 @@
 2. [Furnished Finder](https://www.furnishedfinder.com/)
 3. [Craigslist](https://sfbay.craigslist.org/search/oakland-ca)
 
+![FB example](https://cdn.discordapp.com/attachments/1435791903642747065/1486905016618061824/image.png?ex=69e23a75&is=69e0e8f5&hm=0159beab35358b00558e39551008b49f807c77fcdc91fda869e7a7699a6ec901&)
 ---
 
 # Oakland Healthcare
